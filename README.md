@@ -1,6 +1,6 @@
 # 💫 About Me
 
-> 💬 **Name:** Harpy
+> 💬 **Name:** MSWOZ
 > 
 > 🎮 **Fav Game:** Animal Company/Gorilla Tag/Minecraft/Bonelab
 > 
@@ -9,4 +9,4 @@
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=HarpyThatGuy&color=brightgreen&style=flat&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=MSWOZ&color=brightgreen&style=flat&label=Profile+Views)
